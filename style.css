@@ -41,12 +41,12 @@ button:hover {
 }
 button {
   padding: 10px 20px;
-  background-color: #0077cc;
-  color: rgb(207, 118, 118);
+  background-color: #0a456e;
+  color: rgb(165, 86, 86);
   border: none;
-  border-radius: 7px;
+  border-radius: 6px;
   cursor: pointer;
-  transition: background-color 0.4s ease;
+  transition: background-color 0.3s ease;
 }
 
 button:hover {
