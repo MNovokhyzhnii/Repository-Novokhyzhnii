@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #87cb89;
+  background-color: #5f8f61;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -24,7 +24,7 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #bb9f9f;
+  background-color: #d27777;
 }
 button {
   padding: 10px 20px;
