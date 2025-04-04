@@ -28,7 +28,7 @@ footer {
 }
 button {
   padding: 10px 20px;
-  background-color: #0077cc;
+  background-color: #8396a4;
   color: white;
   border: none;
   border-radius: 6px;
@@ -50,5 +50,5 @@ button {
 }
 
 button:hover {
-  background-color: #005fa3;
+  background-color: #8ea6b7;
 }
