@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #71ca74;
+  background-color: #87cb89;
   color: white;
   padding: 2rem;
   text-align: center;
@@ -24,7 +24,7 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #a58989;
+  background-color: #bb9f9f;
 }
 button {
   padding: 10px 20px;
@@ -32,6 +32,19 @@ button {
   color: white;
   border: none;
   border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+button {
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: rgb(170, 123, 123);
+  border: none;
+  border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
